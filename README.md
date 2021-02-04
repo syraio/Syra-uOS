@@ -18,15 +18,15 @@ So just write your task function, define it in the system, and let the framework
 
 
 ## Quick start
-1- copy framework files into project folder.
+1- Copy framework files into project folder.
 
-2- edit the default Main_Task in the main.c file or add a new task.
+2- Edit the default Main_Task in the main.c file or add a new task.
 
-3- compile and run the code.
+3- Compile and run the code.
 
 
 ## Basic Example
-A Simple Task
+# A Simple Task
 Task is defined as a normal function, but it does not take any input data. Also It does not return any data.
 
 The statements inside the task being executed repeatedly as any infinite loop.
@@ -44,7 +44,7 @@ void task1_app()
 }
 ```
 
-Setup The Task
+# Setup The Task
 Before start executing the task there is a need to do some configurations or define some variables and set their initial values.
 
 Here is an example of Setup function that set the direction of PIN0 of PORTA as an output.
@@ -60,7 +60,7 @@ void task1_Setup()
 }
 ```
 
-Register The Task
+# Register The Task
 To run your task, you need to register it in the system.
 
 The best place to register your task is in the OnBoot method. because the framework execute this method before running tasks.
@@ -98,7 +98,7 @@ void OnBoot()
 }
 ```
 
-## That's it.
+# That's it.
 
 
 ## How can we support you?
