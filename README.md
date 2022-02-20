@@ -1,5 +1,5 @@
-## Syra-Micro-Framework
-Syra uF is a software framework that helps microcontroller programmers to write simple and powerful applications for microcontrollers.
+## Syra-uOS
+It is a software framework that helps microcontroller programmers to write simple and powerful applications for microcontrollers.
 
 It is designed to work with small microcontrollers such as 8Bit AVR Xmega, tinyAVR and also 32Bit ARM SAM devices.
 
