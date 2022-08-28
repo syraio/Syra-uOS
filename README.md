@@ -103,7 +103,7 @@ void OnBoot()
 
 ## How can we support you?
 - Star our repository :star:
-- For more information please visit the official website https://syrasys.com/syra-uf/
+- For more information please visit the official website https://syrasys.com/
 - We're always happy to receive your feedback!
 
 ## License
